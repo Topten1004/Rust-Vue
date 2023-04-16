@@ -50,5 +50,5 @@ pub fn free_key(s: *mut c_char) {
 
 #[test]
 fn it_works() {
-    assert_eq!(2 + 2, 4);
+    assert_eq!(3 + 1, 4);
 }
